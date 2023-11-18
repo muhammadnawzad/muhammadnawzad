@@ -1,19 +1,3 @@
-<style>
-  table {
-    border-collapse: collapse;
-    width: 100%;
-  }
-  td {
-    padding: 5px;
-    text-align: center;
-  }
-  figure {
-    margin: 0;
-    display: block;
-    height: 115px;
-  }
-</style>
-
 <h1>Hello I am Muhammad</h1>
 
 <p>A passionate software developer based in Erbil, Kurdistan. I specialize in Ruby on Rails for robust back-ends and React JS for seamless front-ends. With a background in diverse technologies I aim to progress in my software development career to become an accomplished developer.</p>
