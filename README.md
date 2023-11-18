@@ -1,6 +1,6 @@
-<h1>Hello I am Muhammad</h1>
+<h1 align="center">Hello there! I'm Muhammad 👋</h1>
 
-<p>A passionate software developer based in Erbil, Kurdistan. I specialize in Ruby on Rails for robust back-ends and React JS for seamless front-ends. With a background in diverse technologies I aim to progress in my software development career to become an accomplished developer.</p>
+<p align="center">A passionate software developer based in Erbil, Kurdistan. I specialize in Ruby on Rails for robust back-ends and React JS for seamless front-ends. With a background in diverse technologies I aim to progress in my software development career to become an accomplished developer.</p>
 
 ---
 
