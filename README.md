@@ -26,9 +26,9 @@
       <figure>
         <figcaption>Github Statistics</figcaption>
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=muhammadnawzad&show_icons=true&hide_title=true&theme=dark">
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=muhammadnawzad&show_icons=true&hide_title=true&theme=onedark">
           <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=muhammadnawzad&show_icons=true&hide_title=true">
-          <img alt="muhammadnawzad's github stats" src="https://github-readme-stats.vercel.app/api?username=muhammadnawzad&show_icons=true&hide_title=true&theme=dark">
+          <img alt="muhammadnawzad's github stats" src="https://github-readme-stats.vercel.app/api?username=muhammadnawzad&show_icons=true&hide_title=true&theme=onedark">
         </picture>
       </figure>
     </td>
@@ -36,9 +36,9 @@
       <figure>
         <figcaption>Github Streaks</figcaption>
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=muhammadnawzad&theme=dark">
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=muhammadnawzad&theme=onedark">
           <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=muhammadnawzad">
-          <img alt="muhammadnawzad's github streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadnawzad&theme=dark">
+          <img alt="muhammadnawzad's github streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadnawzad&theme=onedark">
         </picture>
       </figure>
     </td>
@@ -46,9 +46,9 @@
       <figure>
         <figcaption>Languages Used</figcaption>
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadnawzad&show_icons=true&layout=compact&hide_title=true&theme=dark">
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadnawzad&show_icons=true&layout=compact&hide_title=true&theme=onedark">
           <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadnawzad&show_icons=true&layout=compact&hide_title=true">
-          <img alt="muhammadnawzad's github languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadnawzad&show_icons=true&layout=compact&hide_title=true&theme=dark">
+          <img alt="muhammadnawzad's github languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadnawzad&show_icons=true&layout=compact&hide_title=true&theme=onedark">
         </picture>
       </figure>
     </td>
